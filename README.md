@@ -23,6 +23,12 @@
 - <a href='https://github.com/ahmadfauzirahman/mcu' target='_blank'>Elektronik Medical Record </a> - 2020-08-14
 
 
+## Okupasi Sistem
+
+<p align="center">
+  <a href="https://angular-buch.com"><img src="https://occmedapps.com/web/img/fitur/1.png" alt="okupasi"></img></a>
+</p>
+---
 <p align="center">
 <a href="https://deadline.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ahmadfauzirahman" height="20" width="20" /></a>
 
