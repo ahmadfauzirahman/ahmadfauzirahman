@@ -17,6 +17,13 @@
 - ⚡ Fun fact **I love functional programming, cryptography and cats 😻**
 
 
+## ⛳️ Project Release
+
+- <a href='https://github.com/blackcater/blackcater/releases/tag/v1.0.0' target='_blank'>blackcater@v1.0.0</a> - 2020-07-22
+  <br/> Support Github Actions
+- <a href='https://github.com/ahmadfauzirahman/KPPN-PADANG-SAKATO' target='_blank'>KPPN SAKATO<sup>pre-release</sup></a> - 2017-01-01  <br/> Support Github Actions
+- <a href='https://github.com/ahmadfauzirahman/mcu' target='_blank'>Elektronik Medical Record </a> - 2020-08-14
+
 
 <p align="center">
 <a href="https://deadline.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ahmadfauzirahman" height="20" width="20" /></a>
